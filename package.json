@@ -1,0 +1,26 @@
+{
+  "name": "taran",
+  "version": "0.0.1",
+  "description": "Simple CLI programm on nodejs",
+  
+  "main": "lib",
+  
+  "bin": {
+    "bower": "bin/taran"
+  },
+
+  "dependencies": {
+    "lodash": "",
+    "commander": ""
+  },
+
+  "devDependencies": {
+    "del": "",
+    "gulp": "",
+    "gulp-chmod": "",
+    "gulp-coffee": "",
+    "gulp-rename": "",
+    "gulp-header": "",
+    "coffee-script": ""
+  }
+}
