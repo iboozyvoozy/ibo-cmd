@@ -1,6 +1,6 @@
 {
   "name": "taran",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "description": "Simple CLI programm on nodejs",
   "main": "lib",
   "bin": {
