@@ -1,19 +1,15 @@
 {
   "name": "taran",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple CLI programm on nodejs",
-  
   "main": "lib",
-  
   "bin": {
     "taran": "bin/taran"
   },
-
   "dependencies": {
     "lodash": "",
     "commander": ""
   },
-
   "devDependencies": {
     "del": "",
     "gulp": "",
