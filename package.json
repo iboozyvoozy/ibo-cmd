@@ -6,7 +6,7 @@
   "main": "lib",
   
   "bin": {
-    "bower": "bin/taran"
+    "taran": "bin/taran"
   },
 
   "dependencies": {
